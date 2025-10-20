@@ -14,10 +14,6 @@ You can interact with the live application here:
 
 **[https://predict-my-churn.streamlit.app/](https://predict-my-churn.streamlit.app/)**
 
-### Application Screenshot
-<!-- After taking a screenshot of your app, upload it to your GitHub repo and replace the URL below -->
-<img src="https://i.imgur.com/gK6B2iP.png" alt="App Screenshot" width="800"/>
-
 ---
 
 ## 🔧 Tech Stack & Libraries
